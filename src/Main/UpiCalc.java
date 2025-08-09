@@ -14,6 +14,12 @@ public class UpiCalc {
 	   System.out.println("enter upi ids ");
 		System.out.println("the addition of your UPI payment " + c);
 		
+		for(int i = 0; i<0; i++) {
+			System.out.println(i);
+		}
+		
+		
+		
 	}
 	
 
