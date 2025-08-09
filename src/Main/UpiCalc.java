@@ -18,6 +18,9 @@ public class UpiCalc {
 			System.out.println(i);
 		}
 		
+		while(true) {
+			int num =0;
+		}
 		
 		
 	}
