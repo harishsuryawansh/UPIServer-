@@ -10,6 +10,7 @@ public class UpiCalc {
 		int a = in.nextInt();
 		int b = in.nextInt();
 		int c = a+b;
+		double number = 0;
 		
 	   System.out.println("enter upi ids ");
 		System.out.println("the addition of your UPI payment " + c);
@@ -20,8 +21,12 @@ public class UpiCalc {
 		
 		while(true) {
 			int num =0;
+			
+	 
 		}
 		
+		
+	
 		
 	}
 	
